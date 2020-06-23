@@ -29,6 +29,21 @@ https://blog.csdn.net/dpjcn1990/article/details/92831760
 https://www.seniverse.com/
 
 
+需要用到的材料清单
+
+1. NodeMcu D1 Mini
+
+2. 0.91' OLED 12832
+
+3. CD42 5V2A充放电一体模块
+
+4. microusb 母座
+
+5. 300mah 3.7v锂电池
+
+6. 30#硅胶线若干、ABS板、铜柱
+
+
 
 感谢以下B站UP提供的代码支持：
 
