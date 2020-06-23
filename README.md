@@ -27,14 +27,16 @@ https://www.seniverse.com/
 
 感谢以下B站UP提供的代码支持：
 
-1. 会飞的阿卡林 UID 751219 BV1x441187QF BV1eJ411H7LN
+1. 会飞的阿卡林 UID751219 BV1x441187QF BV1eJ411H7LN
 
 https://github.com/flyAkari/bilibili_fans_monitor
 
 https://github.com/flyAkari/ESP8266_Network_Clock
 
-2. Hans叫泽涵 UID 15481541 BV1LE411n7XR
+2. Hans叫泽涵 UID15481541 BV1LE411n7XR
 
 https://github.com/HansCallZH/bilibili_fans_clock_ESP8266
 
-3. 小年轻只爱她 UID 389851522 BV1N7411g7Ps
+3. 小年轻只爱她 UID389851522 BV1N7411g7Ps BV157411L7Xf
+
+https://gitee.com/young_people_only_love_her/My_ESP8266/tree/master/%E5%BF%83%E7%9F%A5%E5
