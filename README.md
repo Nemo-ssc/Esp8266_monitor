@@ -1,11 +1,13 @@
 # Esp8266_monitor
 NTP time+bilibili_fans monitor+weather station
- * 项目：ESP8266_monitor
- * 硬件：适用于NodeMCU ESP8266 + ssd1306 128*32
- * 功能：连接WiFi后获取指定用户的哔哩哔哩实时粉丝数+WIFI网络授时时钟+知心天气
- * 作者：Nemo_ssc  bilibili UID:12772522
- * 日期：2020/06/20
- 
+ *项目：ESP8266_monitor
+ *硬件：适用于NodeMCU ESP8266 + ssd1306 128*32
+ *功能：连接WiFi后获取指定用户的哔哩哔哩实时粉丝数+WIFI网络授时时钟+知心天气
+ *作者：Nemo_ssc  bilibili UID:12772522
+ *日期：2020/06/20
+ *BMP文件夹存放所有用到的位图文件，可用pctolcd2002取模，
+ *字模选项 阴码 逐行式 逆向 十六进制数 自定义格式 段前缀{ 段后缀} 数据前缀0x 数据后缀, 行后缀, 
+   
 需要用到的部分网址：
 
 1.ArduinoJson部分
